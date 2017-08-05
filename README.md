@@ -28,7 +28,7 @@ Program 4 Word-Count
 Given text, this program will count the number of word. 
 
 
-###Program 5 Page Rank
+Program 5 Page Rank
 ---
 This program ranked the Wikipedia PageLink dataset in order of popularity, where popularity was decided by the number of articles that linked from one article. 
  
